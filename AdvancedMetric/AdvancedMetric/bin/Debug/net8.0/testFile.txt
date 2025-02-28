@@ -1,0 +1,21 @@
+#1gamesP# 82
+#2gamesS# 82
+#3threeM# 69
+#4threeA# 214
+#5allM# 624
+#6allA# 1465
+#7ftM# 408
+#8ftA# 525
+#9orb# 183
+#10drb# 315
+#11year# 2003
+#12point# 1725
+#13reb# 498
+#14ast# 227
+#15stl# 97
+#16blk# 41
+#17tov# 247
+#18pf# 225
+#19id# 0000
+#20min# 2995
+#21name# Carmelo Anthony

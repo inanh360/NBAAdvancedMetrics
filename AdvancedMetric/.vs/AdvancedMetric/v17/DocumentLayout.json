@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inan5\\source\\repos\\AdvancedMetric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8532AEC-3533-42B5-A74C-23BE3CE9F414}|AdvancedMetric\\AdvancedMetric.csproj|c:\\users\\inan5\\source\\repos\\advancedmetric\\advancedmetric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8532AEC-3533-42B5-A74C-23BE3CE9F414}|AdvancedMetric\\AdvancedMetric.csproj|solutionrelative:advancedmetric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inan5\\source\\repos\\AdvancedMetric\\AdvancedMetric\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedMetric\\Program.cs",
+              "ToolTip": "C:\\Users\\inan5\\source\\repos\\AdvancedMetric\\AdvancedMetric\\Program.cs",
+              "RelativeToolTip": "AdvancedMetric\\Program.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAswPgBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:17:48.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\bin\Debug\net8.0\AdvancedMetric.exe
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\bin\Debug\net8.0\AdvancedMetric.deps.json
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\bin\Debug\net8.0\AdvancedMetric.runtimeconfig.json
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\bin\Debug\net8.0\AdvancedMetric.dll
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\bin\Debug\net8.0\AdvancedMetric.pdb
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.AssemblyInfoInputs.cache
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.AssemblyInfo.cs
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.csproj.CoreCompileInputs.cache
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.dll
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\refint\AdvancedMetric.dll
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.pdb
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\AdvancedMetric.genruntimeconfig.cache
+C:\Users\inan5\source\repos\AdvancedMetric\AdvancedMetric\obj\Debug\net8.0\ref\AdvancedMetric.dll
